@@ -3,7 +3,7 @@ Computer vision course - Polytechnic University of Tirana
 
 1. Introduction to image processing (4 hours): 
 
-Basic image handling and preprocessing. Spatial (Convolutional) filters, morphological operations, filters in the frequency domain)
+Basic image handling and preprocessing. Spatial (convolutional) filters, morphological operations, filters in the frequency domain. 
 
 2. Image segmentation (4 hours): 
 
