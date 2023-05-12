@@ -7,7 +7,7 @@ Basic image handling and preprocessing. Spatial (convolutional) filters, morphol
 
 2. Image segmentation (5 hours): IMAGE SEGMENTATION
 
-Unsupervised segmentation with pixelwise clustering algorithms. Supervised methods using pixel classifiers)
+Unsupervised segmentation with pixelwise clustering algorithms. Supervised methods using pixel classifiers.
 
 3. Image classification (5 hours): IMAGE CLASSIFICATION
 
