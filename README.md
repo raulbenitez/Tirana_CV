@@ -7,11 +7,11 @@ Basic image handling and preprocessing. Spatial (convolutional) filters, morphol
 
 2. Image segmentation (5 hours): IMAGE SEGMENTATION
 
-Unsupervised segmentation with pixelwise clustering algorithms. Supervised methods using pixel classifiers.
+Unsupervised segmentation using clustering algorithms. Supervised methods using pixelwise classifiers.
 
 3. Image classification (5 hours): IMAGE CLASSIFICATION
 
-Extraction of regional features. Texture analysis and entropy. Region-based supervised classifiers.
+Extraction of regional features. Texture analysis and entropy. Region-based supervised classifiers. PCA Eigenfaces. 
 
 4. Introduction to deep learning (5 hours): DEEP LEARNING
 
