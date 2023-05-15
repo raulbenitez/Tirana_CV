@@ -16,3 +16,5 @@ Extraction of regional features. Texture analysis and entropy. Region-based supe
 4. Introduction to deep learning (5 hours): DEEP LEARNING
 
 Convolutional neural networks for image classification. 
+Segmentation using Convolutional Neural Networks. 
+
