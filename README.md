@@ -1,9 +1,10 @@
 # Tirana_CV
-Computer vision course - Polytechnic University of Tirana
-16-19 May, 2023
+Computer vision course - Polytechnic University of Tirana 16-19 May, 2023
 
 Raul Benitez, PhD
+
 Universitat Politècnica de Catalunya (Barcelona, Spain)
+
 contact: raul.benitez@upc.edu
 
 1. Introduction to image processing (5 hours): IMAGE PREPROCESSING
